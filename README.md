@@ -6,6 +6,18 @@ Esse exercício servirá para mostrar o fluxo que devemos seguir durante nosso d
 
 utilizando o git e um projeto sério compartilhado com um time de desenvolvedores.
 
+### Exercício
+
+O projeto contem apenas um arquivo (complex_file.js) e deve permanecer com apenas ele. Cada participante deverá
+
+criar e depois submeter dois branches próprios. A descrição do que deve conter cada branch (da funcionalidade de cada uma) segue:
+
+1. FUNCIONALIDADE 1: Substituir todas linhas com a letra `c` do arquivo complex_file.js pelo seu nome completo, sem abreviaçōes.
+
+2. FUNCIONALIDADE 2: Substituir todas as linhas com a letra `k` do arquivo complex_file.js pelo seu primeiro nome seguido sem espaços por seu ultimo nome, ambos em letras maiúsculas apenas.
+
+O exercício terá fim ao seu PR ser aceito para a branch `develop` do time.
+
 ### Cola do fluxo
 
 0. `git checkout {o projeto git}`
